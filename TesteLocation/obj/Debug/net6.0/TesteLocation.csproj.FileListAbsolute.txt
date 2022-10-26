@@ -1,0 +1,15 @@
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\bin\Debug\net6.0\TesteLocation.exe
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\bin\Debug\net6.0\TesteLocation.deps.json
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\bin\Debug\net6.0\TesteLocation.runtimeconfig.json
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\bin\Debug\net6.0\TesteLocation.dll
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\bin\Debug\net6.0\TesteLocation.pdb
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\obj\Debug\net6.0\TesteLocation.csproj.AssemblyReference.cache
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\obj\Debug\net6.0\TesteLocation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\obj\Debug\net6.0\TesteLocation.AssemblyInfoInputs.cache
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\obj\Debug\net6.0\TesteLocation.AssemblyInfo.cs
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\obj\Debug\net6.0\TesteLocation.csproj.CoreCompileInputs.cache
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\obj\Debug\net6.0\TesteLocation.dll
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\obj\Debug\net6.0\refint\TesteLocation.dll
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\obj\Debug\net6.0\TesteLocation.pdb
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\obj\Debug\net6.0\TesteLocation.genruntimeconfig.cache
+C:\Users\mxthe\RiderProjects\TesteLocation\TesteLocation\obj\Debug\net6.0\ref\TesteLocation.dll
