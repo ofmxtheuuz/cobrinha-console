@@ -5,6 +5,7 @@ int score = 0, foodX = 0, foodY = 0;
 Position[] positions = new Position[1];
 positions[0] = new Position() { X = 1, Y = 1};
 
+// initial
 Start();
 SetFood();
 Info();
