@@ -2,6 +2,7 @@
 
 public class Position
 {
+    // model
     public int X { get; set; }
     public int Y { get; set; }
 
